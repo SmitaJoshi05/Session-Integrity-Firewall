@@ -19,7 +19,15 @@
     "pg": "^8.20.0"
   },
   "devDependencies": {
-    "jest": "^30.3.0",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmitaJoshi05/Session-Integrity-Firewall.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SmitaJoshi05/Session-Integrity-Firewall/issues"
+  },
+  "homepage": "https://github.com/SmitaJoshi05/Session-Integrity-Firewall#readme"
 }
